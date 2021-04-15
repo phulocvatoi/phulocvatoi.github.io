@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Blog1",
+        "comments" : [
+            {
+                "image": "images/person_1.jpg",
+                "person": "Thanh Huyen",
+                "content" : "Thanks for sharing!",
+                "time":"Thu Apr 15 2021 2:50:55 PM"
+            },
+            {
+                "image": "images/person_2.jpg",
+                "person": "Jonas",
+                "content" : "Lang Co beach is the most beautiful i ever travel!",
+                "time":"Thu Apr 15 2021 2:50:55 PM"
+            }
+            
+        ]
+    },
+    {
+        "name":"Blog1",
+        "comments" : [
+            
+            {
+                "image": "images/person_2.jpg",
+                "person": "Tuan Thien",
+                "content" : "Can you give me a price of this tour?",
+                "time":"Thu Apr 15 2021 2:50:55 PM"
+            },
+            {
+                "image": "images/person_3.jpg",
+                "person": "Billy",
+                "content" : "This tour's price is $210!",
+                "time":"Thu Apr 15 2021 2:50:55 PM"
+            }
+            
+        ]
+    },
+    {
+        "name":"Blog1",
+        "comments" : [
+            {
+                "image": "images/person_1.jpg",
+                "person": "Linh Tran",
+                "content" : "Thanks you!",
+                "time":"Thu Apr 15 2021 2:50:55 PM"
+            },
+            {
+                "image": "images/person_2.jpg",
+                "person": "Tien Si",
+                "content" : "Lang Co beach is the most beautiful i ever travel!",
+                "time":"Thu Apr 15 2021 2:50:55 PM"
+            }
+            
+        ]
+    }
+]
